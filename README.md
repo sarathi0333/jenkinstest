@@ -1,2 +1,2 @@
 # jenkinstest
-jenkins test repository created
+jenkins test repository created and tested
